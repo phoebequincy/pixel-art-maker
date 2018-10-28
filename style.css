@@ -1,3 +1,14 @@
+h1 {
+  font-family: Raleway;
+  color: grey;
+  font-size: 1.167em;
+}
+
+body {
+  text-align: center;
+  font-family: Raleway;
+  background-color: #e3e4e6;
+}
 .container{
   margin-top: 3em;
   }
@@ -9,46 +20,6 @@
   border-radius: 50%
 }
 
-/* .btn[name="one"] { border: 1px solid gray;
-    background-color: white;
-
-}
-.btn[name="two"]{
-    background-color: black;
-
-}
-.btn[name="three"]{
-    background-color: gray;
-
-}
-.btn[name="four"]{
-    background-color: saddlebrown;
-
-}
-.btn[name="five"] {
-    background-color: red;
-
-}
-.btn[name="six"]{
-    background-color: blue;
-
-}
-.btn[name="seven"]{
-    background-color: green;
-
-}
-.btn[name="eight"]{
-    background-color: yellow;
-
-}
-.btn[name="nine"]{
-    background-color: pink;
-
-}
-.btn[name="ten"]{
-    background-color: orange;
-
-} */
 
 legend {
     background-color: lightgray;
